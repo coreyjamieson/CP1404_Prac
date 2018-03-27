@@ -12,3 +12,9 @@ elif score >= 50:
     print("Passable")
 else:
     print("Bad")
+
+
+
+words = ["aye", "bee", "sea"]
+print(" / ".join(words))
+
